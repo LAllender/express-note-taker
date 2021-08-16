@@ -28,8 +28,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 ## <h2 style="text-align:center" id="installation">Installation</h2> 
-The application is deployed to Heroku at the following url:
-It is also deployed to Github at the following url:
+The application is deployed to Heroku at the following url:https://express-note-taker-lallender.herokuapp.com/
 
 ## <h2 style="text-align:center" id="credits"> Credits</h2>
 Monash University Full Stack Boot Camp on behalf of Trilogy Education - 2021 (Provided Assets)
